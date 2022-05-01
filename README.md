@@ -7,5 +7,8 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 3. No disk may be placed on top of a smaller disk.
 
 Example:-
+
+
+
 ![image](https://user-images.githubusercontent.com/83890748/166161902-e7077453-6f38-4eac-8638-b27ef85806f9.png)
 
