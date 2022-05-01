@@ -5,5 +5,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 1. Only one disk can be moved at a time.
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 3. No disk may be placed on top of a smaller disk.
+
+Example:-
 ![image](https://user-images.githubusercontent.com/83890748/166161902-e7077453-6f38-4eac-8638-b27ef85806f9.png)
 
